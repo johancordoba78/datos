@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "Haciendas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id_hacienda": 3, "nombre": "Andre", "ubicacion": "Concepcion Hierba Buena (Las Mercedes - La Carpitera - San Diego y El Aguacate)", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.987185889365605, 9.914371572261715 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 11, "nombre": "Hacienda Empresa Irex", "ubicacion": "399000", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.990630363288048, 9.921579954515314 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 20, "nombre": "La Silvia", "ubicacion": "Cerca del Licio Franco Costarricense", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.004544869709662, 9.927862846884285 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 8, "nombre": "Hacienda Herran", "ubicacion": "Tres Rios", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.00120031776116, 9.910063901833148 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 9, "nombre": "Hacienda La Mancha (Field)", "ubicacion": "La Union de Cartago", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.003667869487685, 9.910295893875812 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 14, "nombre": "Hacienda La Union", "ubicacion": "San Diego", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.012552110212411, 9.911861840163793 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 5, "nombre": "Hacienda Bella Vista", "ubicacion": "San Juan de La Union", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.99976618513378, 9.908998847455461 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 1, "nombre": "Hacienda Tiribi", "ubicacion": "Tres Rios", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.982839004373076, 9.908395470424043 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 15, "nombre": "Hacienda Julio y Benjamin Piza", "ubicacion": "San Diego ", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.986969714962257, 9.904332643870053 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 2, "nombre": "Sociedad Alvarado", "ubicacion": "San Diego", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.982219150634137, 9.911998926370822 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 18, "nombre": "Hacienda Carlos Duran Cartin", "ubicacion": "San Rafael", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.980727019996067, 9.905397698247743 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 10, "nombre": "Hacienda Jaime Guell", "ubicacion": "Concepcion", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.969491223566067, 9.916549133934899 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 12, "nombre": "Hacienda La Itaba", "ubicacion": "Curridabat", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.020955440205299, 9.901593997335489 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 13, "nombre": "Hacienda La Laguna", "ubicacion": "Concepcion de Tres Rios y Curridabat", "tipo_cafe": "Arabica Tipyca" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.023835359560209, 9.910550147781171 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 16, "nombre": "Hacienda San Diego", "ubicacion": "Dulce Nombre de Tres Rios", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.993662391936482, 9.90059769657482 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 6, "nombre": "Hacienda Cleto Conejo", "ubicacion": "San Diego", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.996678230444715, 9.906763287771618 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 7, "nombre": "Hacienda Eugenio Bermudez", "ubicacion": "San Diego de Tres Rios (Sin ubicacion especifica)", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.001314165708109, 9.900917400743634 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 4, "nombre": "Hacienda Bella Vista", "ubicacion": "Tres Rios", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.983421291218775, 9.918631789772451 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 19, "nombre": "Hacienda de A.y F. Gallardo", "ubicacion": "Dulce Nombre de Tres Rios (cerca de La Quebrada Las Marielas) Sin ubica expecifi", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.97453744105303, 9.92489459852696 ] ] } },
+{ "type": "Feature", "properties": { "id_hacienda": 17, "nombre": "Hacienda Yierba Buena", "ubicacion": "Concepcion", "tipo_cafe": "Arabica Typica" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.981259547184948, 9.915847885260485 ] ] } }
+]
+}
